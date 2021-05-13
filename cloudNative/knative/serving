@@ -1,12 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T12:37:40.405Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="cNi-0UnH0anU9CBjAyas" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T13:00:38.462Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="UP1VEL2KEi4ZUwcnlkWn" version="14.6.12" type="github" pages="2">
   <diagram id="GdAEkwZhyTSwurCrK2Qr" name="Page-1">
     <mxGraphModel dx="944" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qB1V-BUYbA_ca6l02hsA-1" value="watch" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.443;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qB1V-BUYbA_ca6l02hsA-10" target="qB1V-BUYbA_ca6l02hsA-11">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.8226" relative="1" as="geometry">
             <mxPoint x="165" y="130" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qB1V-BUYbA_ca6l02hsA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qB1V-BUYbA_ca6l02hsA-10" target="qB1V-BUYbA_ca6l02hsA-13">
@@ -40,7 +41,7 @@
         </mxCell>
         <mxCell id="qB1V-BUYbA_ca6l02hsA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qB1V-BUYbA_ca6l02hsA-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="385" y="240" as="sourcePoint" />
+            <mxPoint x="400" y="230" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="385" y="270" />
               <mxPoint x="585" y="270" />
@@ -57,11 +58,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qB1V-BUYbA_ca6l02hsA-10" value="service controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="170" height="40" as="geometry" />
+        <mxCell id="qB1V-BUYbA_ca6l02hsA-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qB1V-BUYbA_ca6l02hsA-10" target="qB1V-BUYbA_ca6l02hsA-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qB1V-BUYbA_ca6l02hsA-11" value="V1.service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="340" y="80" width="105" height="30" as="geometry" />
+        <mxCell id="qB1V-BUYbA_ca6l02hsA-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1V-BUYbA_ca6l02hsA-11" value="V1.Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="205" y="10" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qB1V-BUYbA_ca6l02hsA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qB1V-BUYbA_ca6l02hsA-13" target="qB1V-BUYbA_ca6l02hsA-15">
           <mxGeometry relative="1" as="geometry" />
@@ -230,6 +234,70 @@
         </mxCell>
         <mxCell id="qB1V-BUYbA_ca6l02hsA-55" value="v1.Route" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="500" y="1060" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1V-BUYbA_ca6l02hsA-63" value="&lt;span&gt;service controller&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1V-BUYbA_ca6l02hsA-64" value="&lt;span&gt;configuration controller&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1V-BUYbA_ca6l02hsA-65" value="V1.Configuration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="10" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qB1V-BUYbA_ca6l02hsA-67" value="pkg/client/injection/reconciler/serving/v1/***/reconciler" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YhBN3vvca4rcO7vGOTwe" name="Page-2">
+    <mxGraphModel dx="944" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="sA0UDQJg5IC_re7f5up4-0" />
+        <mxCell id="sA0UDQJg5IC_re7f5up4-1" parent="sA0UDQJg5IC_re7f5up4-0" />
+        <mxCell id="sA0UDQJg5IC_re7f5up4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="sA0UDQJg5IC_re7f5up4-1" source="sA0UDQJg5IC_re7f5up4-2" target="sA0UDQJg5IC_re7f5up4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sA0UDQJg5IC_re7f5up4-2" value="ReconcileKind" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sA0UDQJg5IC_re7f5up4-1">
+          <mxGeometry x="195" y="80" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sA0UDQJg5IC_re7f5up4-3" value="pkg/reconciler/configuration/configuration.go" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sA0UDQJg5IC_re7f5up4-1">
+          <mxGeometry x="260" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sA0UDQJg5IC_re7f5up4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="sA0UDQJg5IC_re7f5up4-1" source="sA0UDQJg5IC_re7f5up4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sA0UDQJg5IC_re7f5up4-4" value="lastCreatedRevision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sA0UDQJg5IC_re7f5up4-1">
+          <mxGeometry x="195" y="160" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sA0UDQJg5IC_re7f5up4-8" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="sA0UDQJg5IC_re7f5up4-1" source="sA0UDQJg5IC_re7f5up4-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sA0UDQJg5IC_re7f5up4-9" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="sA0UDQJg5IC_re7f5up4-1" source="sA0UDQJg5IC_re7f5up4-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sA0UDQJg5IC_re7f5up4-7" value="revision not find" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="sA0UDQJg5IC_re7f5up4-1">
+          <mxGeometry x="240" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sA0UDQJg5IC_re7f5up4-10" value="createRevision" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sA0UDQJg5IC_re7f5up4-1">
+          <mxGeometry x="390" y="250" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sA0UDQJg5IC_re7f5up4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="sA0UDQJg5IC_re7f5up4-1" source="sA0UDQJg5IC_re7f5up4-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sA0UDQJg5IC_re7f5up4-11" value="判断lastRevision状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sA0UDQJg5IC_re7f5up4-1">
+          <mxGeometry x="210" y="350" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sA0UDQJg5IC_re7f5up4-13" value="修改Revision ready or fail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sA0UDQJg5IC_re7f5up4-1">
+          <mxGeometry x="210" y="420" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
