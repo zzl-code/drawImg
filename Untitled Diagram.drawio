@@ -1,1 +1,266 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T07:52:14.564Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="1mw6mhLs3NCfh-MdIUoq" version="14.6.12" type="github"><diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-31T09:33:43.565Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="_AGpHVlFLwKETI2kmx-4" version="14.7.2" type="github">
+  <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
+    <mxGraphModel dx="787" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-2" value="kafka_cluster(kafka集群表)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="190" height="600" as="geometry">
+            <mxRectangle x="190" y="140" width="100" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-3" value="+ id: bigint(20)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-2">
+          <mxGeometry y="26" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-4" value="+ cluster_id: varchar(64) ?" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-2">
+          <mxGeometry y="52" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-5" value="+ cluster_name: varchar(64)&#xa;&#xa;+ workspace_id   bigint(20)&#xa;&#xa;+namespace     varchar(20)&#xa;&#xa;+node_type  varchar(64)&#xa;&#xa;+create_type varchar(64)&#xa;&#xa;+admin_name varchar(64)&#xa;&#xa;+admin_password  varchar(64)&#xa;&#xa;+available_zone  varchar(64)&#xa;&#xa;+cluster_status  varchar（16）&#xa;&#xa;+broker_count   int(11)&#xa;&#xa;+alive_broker_count int(11)&#xa;&#xa;+kafka_version int(11)&#xa;&#xa;+bootstrap_server varchar(256)&#xa;&#xa;+zk_connect varchar(256)&#xa;&#xa;+zk_id  varchar(36)&#xa;&#xa;+description varchar(256) &#xa;&#xa;+created_time timestamp&#xa;&#xa;+updated_time timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-2">
+          <mxGeometry y="78" width="190" height="522" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-6" value="kafka_cluster_node（kafka集群节点表）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="210" height="450" as="geometry">
+            <mxRectangle x="480" y="140" width="140" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-7" value="+ id: bigint(20)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-6">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-8" value="+ cluster_id: int(64)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-6">
+          <mxGeometry y="52" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-13" value="+ node_id: int(64)直接用id？" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-6">
+          <mxGeometry y="78" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-12" value="+ node_type: varchar(64)？&#xa;&#xa;+available_zone  varchar(64)集群表？" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=0;rounded=1;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-6">
+          <mxGeometry y="104" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-9" value="+node_name varchar(64)&#xa;&#xa;+address  varchar(64)&#xa;&#xa;+port        int(8)&#xa;&#xa;+borker_id varchar(64)&#xa;&#xa;+node_status  varchar(16)&#xa;&#xa;+cpu_cores      int(11)&#xa;&#xa;+memory_size_gb int(11)&#xa;&#xa;+disk_size_gb         int(11)&#xa;&#xa;+created_time timestamp&#xa;&#xa;+updated_time timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-6">
+          <mxGeometry y="154" width="210" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="GtaQLyDvOYzaf2lnGROW-8" target="GtaQLyDvOYzaf2lnGROW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=1.011;entryY=0.769;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GtaQLyDvOYzaf2lnGROW-14" target="GtaQLyDvOYzaf2lnGROW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="675" />
+              <mxPoint x="420" y="186" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-14" value="kafka_cluster_config（kafka集群配置表）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=none;strokeColor=#000000;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="610" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-15" value="+ id: bitint(20)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-14">
+          <mxGeometry y="26" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-16" value="+ cluster_id: int(64)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-14">
+          <mxGeometry y="52" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-17" value="+ config_key: varchar(64)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-14">
+          <mxGeometry y="78" width="230" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-18" value="+ config_value: varchar(256)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-14">
+          <mxGeometry y="100" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-20" value="kafka_ api_resource_operation&#xa;(kafka资源操作定义表)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="850" y="130" width="200" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-21" value="+ ID: bigint(20)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-20">
+          <mxGeometry y="26" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-22" value="+ API_URL: varchar(256)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-20">
+          <mxGeometry y="52" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-23" value="+ API_METHOD: varchar(16)&#xa;&#xa;+RESOURCE_TYPE varchar(16)&#xa;&#xa;+OPERATION_TYPE varchar(16)&#xa;&#xa;+AUTH_SCOPE  varchar(16)&#xa;&#xa;+AUDIT_SWITCHER  tinyint(1)&#xa;&#xa;+EVENT_NAME    varchar(256)&#xa;&#xa;+EVENT_TYPE       varchar(50)&#xa;&#xa;+RESOURCES text&#xa;&#xa;+CREATED_TIME timestamp&#xa;&#xa;+UPDATED_TIME timestamp&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-20">
+          <mxGeometry y="78" width="200" height="302" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-24" value="kafka_cluser_user(kafka用户表)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="870" y="540" width="180" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-25" value="+ id: bigint(20)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-24">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-26" value="+ user_id: varchar(36)" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-24">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-28" value="+ cluster_id: int(64)&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-24">
+          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-32" value="+ user_account: varchar(64)&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-24">
+          <mxGeometry y="104" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-31" value="+ user_password: varchar(64)&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-24">
+          <mxGeometry y="130" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-30" value="+ created_time: timestamp&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-24">
+          <mxGeometry y="156" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-27" value="+updated_time timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-24">
+          <mxGeometry y="182" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;集群、tpoic操作权限对接轻舟平台的权限系统？&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="80" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-34" value="kafka_topic（kafka主题信息表）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="790" width="220" height="288" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-35" value="+ id: bigint(20)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-34">
+          <mxGeometry y="26" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-36" value="+ topic_id: varchar(64)" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-34">
+          <mxGeometry y="52" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-43" value="+ topic_name: charchar(64)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-34">
+          <mxGeometry y="80" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-42" value="+ partitions:  int(11)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-34">
+          <mxGeometry y="106" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-41" value="+ replications:int(11)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-34">
+          <mxGeometry y="132" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-40" value="+ cluster_id: bigint(20)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-34">
+          <mxGeometry y="158" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-39" value="+ topic_status: varchar(16)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-34">
+          <mxGeometry y="184" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-46" value="+ created_time: timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-34">
+          <mxGeometry y="210" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-38" value="+ updated_time: timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-34">
+          <mxGeometry y="236" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-37" value="+ description: charchar(256)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-34">
+          <mxGeometry y="262" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtaQLyDvOYzaf2lnGROW-40" target="GtaQLyDvOYzaf2lnGROW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="961" />
+              <mxPoint x="120" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.269;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GtaQLyDvOYzaf2lnGROW-28" target="GtaQLyDvOYzaf2lnGROW-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="631" />
+              <mxPoint x="850" y="600" />
+              <mxPoint x="510" y="600" />
+              <mxPoint x="510" y="173" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-57" value="kafka_topic_config(kafka主题配置表)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="770" width="210" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-58" value="+ id: bigint(20)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-57">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-59" value="+ topic_id: bigint(20)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-57">
+          <mxGeometry y="52" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-64" value="+ config_key: varchar(64)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-57">
+          <mxGeometry y="78" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-65" value="+ config_value: varchar(64)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-57">
+          <mxGeometry y="104" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-63" value="+ config_type: varchar(16)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-57">
+          <mxGeometry y="130" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-66" value="+ created_time: timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-57">
+          <mxGeometry y="156" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-60" value="+ updated_time: timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-57">
+          <mxGeometry y="182" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="GtaQLyDvOYzaf2lnGROW-59" target="GtaQLyDvOYzaf2lnGROW-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-67" value="kafka_topic_user&#xa;(kafka用户主题访问控制、quota配置表)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;strokeWidth=1;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1040" width="220" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-68" value="+ id: bigint(20)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-67">
+          <mxGeometry y="26" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-69" value="+ topic_id: bigint(20)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-67">
+          <mxGeometry y="52" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-74" value="+ user_id: bigint(20)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-67">
+          <mxGeometry y="78" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-76" value="+ permission: varchar(64)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-67">
+          <mxGeometry y="104" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-75" value="+ quota: varchar(256)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-67">
+          <mxGeometry y="130" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-73" value="+ created_time: timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-67">
+          <mxGeometry y="156" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-70" value="+ updated_time: timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-67">
+          <mxGeometry y="182" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.005;entryY=0.846;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="1" source="GtaQLyDvOYzaf2lnGROW-69" target="GtaQLyDvOYzaf2lnGROW-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtaQLyDvOYzaf2lnGROW-74" target="GtaQLyDvOYzaf2lnGROW-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-77" value="kafka_user_service" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1040" width="140" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-78" value="+ id: bigint（20）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-77">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-79" value="+ user_id: bigint(20)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-77">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-82" value="+ service_id: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-77">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-81" value="+ created_time: timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-77">
+          <mxGeometry y="104" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-80" value="+ updated_time: timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-77">
+          <mxGeometry y="130" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GtaQLyDvOYzaf2lnGROW-79" target="GtaQLyDvOYzaf2lnGROW-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1140" y="1105" />
+              <mxPoint x="1140" y="579" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-84" value="service" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1040" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-85" value="+ id: bigint(20)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-84">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-86" value="+ 环境id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-84">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-87" value="+ 应用id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="GtaQLyDvOYzaf2lnGROW-84">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="GtaQLyDvOYzaf2lnGROW-82" target="GtaQLyDvOYzaf2lnGROW-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtaQLyDvOYzaf2lnGROW-90" value="&lt;h1&gt;topic/user/服务关系&lt;/h1&gt;&lt;p&gt;1.kafka中topic的访问控制是跟&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1210" width="270" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
