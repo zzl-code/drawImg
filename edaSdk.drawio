@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T03:55:36.819Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="V7ETmYqvlcyHRHFjlU0b" version="15.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-02T06:26:25.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="yJlqFnmAc8hWOaiMtcJx" version="15.0.4" type="github" pages="2">
   <diagram id="xrIw97Q9ADusA3h81luw" name="第 1 页">
     <mxGraphModel dx="2013" dy="1722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -243,6 +243,12 @@
         <mxCell id="u072rFli4ugeSpY0nAhN-30" value="解析地址获取exchangeName" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="u072rFli4ugeSpY0nAhN-7">
           <mxGeometry x="30" y="520" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="u072rFli4ugeSpY0nAhN-41" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="u072rFli4ugeSpY0nAhN-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="290" as="sourcePoint" />
+            <mxPoint x="660" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u072rFli4ugeSpY0nAhN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="u072rFli4ugeSpY0nAhN-1" source="u072rFli4ugeSpY0nAhN-14" target="u072rFli4ugeSpY0nAhN-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="170" as="targetPoint" />
@@ -287,8 +293,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u072rFli4ugeSpY0nAhN-40" value="1.用户在调用ems发布消费接口时候&lt;br&gt;已经知道对应的eventId。新sdk这&lt;br&gt;边需要知道所有的事件类型，然后&lt;br&gt;提供一个接口或者界面来告知用户&lt;br&gt;事件类型和eventId的关系。要考&lt;br&gt;虑用户改造成本&lt;br&gt;2.提供界面操作配置事件和用户的&lt;br&gt;绑定关系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FFFF33;fillColor=#FFFF99;" vertex="1" parent="u072rFli4ugeSpY0nAhN-1">
-          <mxGeometry x="910" y="585" width="200" height="120" as="geometry" />
+        <mxCell id="u072rFli4ugeSpY0nAhN-44" value="1.配置" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFF33;fillColor=#FFFF99;" vertex="1" parent="u072rFli4ugeSpY0nAhN-1">
+          <mxGeometry x="10" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u072rFli4ugeSpY0nAhN-45" value="2.收发消息" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFF33;fillColor=#FFFF99;" vertex="1" parent="u072rFli4ugeSpY0nAhN-1">
+          <mxGeometry x="10" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u072rFli4ugeSpY0nAhN-46" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1.配置模块逻辑替换需要在管控端做一个事件管理来维护全量事件类型。每个事件类型对应的topic，eventId供sdk调用。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;2.收发消息模块对接我们现在sdk，直接基于eventId找到topicName实现发送，不必太关心msgCenter底层收发逻辑&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;3.需要新增tpNodeId和事件的绑定关系维护&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="u072rFli4ugeSpY0nAhN-1">
+          <mxGeometry x="150" y="780" width="440" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="u072rFli4ugeSpY0nAhN-47" value="&lt;h1&gt;待讨论&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;1.tpNodeId分配：是一个租户一个tpNodeId，还是一个租户可以多个tpNodeId，每个client一个&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;2.事件和kafkaUser关系：每个tpNodeId对应一个用户，还是每个事件统一用一个用户&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="u072rFli4ugeSpY0nAhN-1">
+          <mxGeometry x="650" y="780" width="400" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
