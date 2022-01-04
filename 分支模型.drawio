@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T02:39:54.696Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.0" etag="P03vVZqdFm83wkR7N-6G" type="github"><diagram id="XKSF8sdU229nAUPQb4sL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-04T02:51:05.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="tGcTCMUBeBEbpmghLIrB" version="16.1.0" type="github">
+  <diagram id="XKSF8sdU229nAUPQb4sL" name="第 1 页">
+    <mxGraphModel dx="1182" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F0wUzAGoNyTFlxlBVDFP-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="220" as="sourcePoint" />
+            <mxPoint x="720" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0wUzAGoNyTFlxlBVDFP-3" value="master" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F0wUzAGoNyTFlxlBVDFP-2">
+          <mxGeometry x="-0.0167" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0wUzAGoNyTFlxlBVDFP-4" value="dev" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="380" as="sourcePoint" />
+            <mxPoint x="720" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0wUzAGoNyTFlxlBVDFP-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="380" as="sourcePoint" />
+            <mxPoint x="320" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="430" />
+              <mxPoint x="250" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0wUzAGoNyTFlxlBVDFP-7" value="大的feature" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F0wUzAGoNyTFlxlBVDFP-5">
+          <mxGeometry x="-0.484" y="3" relative="1" as="geometry">
+            <mxPoint x="36" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0wUzAGoNyTFlxlBVDFP-8" value="拉一个release验证" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="380" as="sourcePoint" />
+            <mxPoint x="420" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0wUzAGoNyTFlxlBVDFP-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="330" as="sourcePoint" />
+            <mxPoint x="480" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0wUzAGoNyTFlxlBVDFP-10" value="release合并master" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F0wUzAGoNyTFlxlBVDFP-9">
+          <mxGeometry x="0.3529" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0wUzAGoNyTFlxlBVDFP-11" value="打tag V1.0.0" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="220" as="sourcePoint" />
+            <mxPoint x="560" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0wUzAGoNyTFlxlBVDFP-13" value="小的缺陷或者bugfix基于tag拉" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="190" as="sourcePoint" />
+            <mxPoint x="640" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="320" />
+              <mxPoint x="560" y="270" />
+              <mxPoint x="620" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0wUzAGoNyTFlxlBVDFP-14" value="合并dev" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.2603" y="-2" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="270" as="sourcePoint" />
+            <mxPoint x="680" y="380" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0wUzAGoNyTFlxlBVDFP-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="270" as="sourcePoint" />
+            <mxPoint x="550" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F0wUzAGoNyTFlxlBVDFP-16" value="合并对应tag" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F0wUzAGoNyTFlxlBVDFP-15">
+          <mxGeometry x="-0.2756" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
