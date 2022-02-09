@@ -1,38 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T13:20:05.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="0TypqVpSEbB2Ardq3JbG" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T02:56:18.778Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="BI2izIb4oc8dh8zzNMMA" version="16.4.6" type="github">
   <diagram id="hsNRYOvsJTTSKMc1zOzu" name="第 1 页">
     <mxGraphModel dx="1182" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="225PCeKxwdTrjw9ynnwL-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="100" y="30" width="340" height="340" as="geometry" />
+        <mxCell id="zVuziUkLwVT8MejhazCk-3" value="harbor-proxy" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="80" width="140" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="225PCeKxwdTrjw9ynnwL-2" value="PostgreSQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="70" width="160" height="70" as="geometry" />
+        <mxCell id="zVuziUkLwVT8MejhazCk-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="zVuziUkLwVT8MejhazCk-3">
+          <mxGeometry x="65" y="50" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="225PCeKxwdTrjw9ynnwL-3" value="redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="260" width="160" height="70" as="geometry" />
+        <mxCell id="zVuziUkLwVT8MejhazCk-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="zVuziUkLwVT8MejhazCk-3">
+          <mxGeometry x="65" y="110" width="10" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="225PCeKxwdTrjw9ynnwL-4" value="adminServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="70" width="110" height="40" as="geometry" />
+        <mxCell id="zVuziUkLwVT8MejhazCk-15" value="基于消息下载镜像" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" edge="1" parent="zVuziUkLwVT8MejhazCk-3" target="zVuziUkLwVT8MejhazCk-4">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="60" y="160" as="sourcePoint" />
+            <mxPoint x="120" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="225PCeKxwdTrjw9ynnwL-5" value="chartmuseum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="70" width="110" height="40" as="geometry" />
+        <mxCell id="zVuziUkLwVT8MejhazCk-17" value="下载完成" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.3;exitY=0.763;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="zVuziUkLwVT8MejhazCk-3" source="zVuziUkLwVT8MejhazCk-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="210" as="sourcePoint" />
+            <mxPoint x="75" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="225PCeKxwdTrjw9ynnwL-6" value="clair" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="140" width="110" height="40" as="geometry" />
+        <mxCell id="zVuziUkLwVT8MejhazCk-18" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="zVuziUkLwVT8MejhazCk-3">
+          <mxGeometry x="75" y="230" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="225PCeKxwdTrjw9ynnwL-7" value="core" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="140" width="110" height="40" as="geometry" />
+        <mxCell id="zVuziUkLwVT8MejhazCk-20" value="打包" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zVuziUkLwVT8MejhazCk-3">
+          <mxGeometry x="65" y="237" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="225PCeKxwdTrjw9ynnwL-8" value="prortal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="220" width="110" height="40" as="geometry" />
+        <mxCell id="zVuziUkLwVT8MejhazCk-4" value="harbor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="100" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="225PCeKxwdTrjw9ynnwL-9" value="jobService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="220" width="110" height="40" as="geometry" />
+        <mxCell id="zVuziUkLwVT8MejhazCk-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="zVuziUkLwVT8MejhazCk-4">
+          <mxGeometry x="45" y="150" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="225PCeKxwdTrjw9ynnwL-10" value="registry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="300" width="110" height="40" as="geometry" />
+        <mxCell id="zVuziUkLwVT8MejhazCk-5" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="100" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="zVuziUkLwVT8MejhazCk-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="zVuziUkLwVT8MejhazCk-5">
+          <mxGeometry x="45" y="50" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zVuziUkLwVT8MejhazCk-10" value="简历socket连接" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="zVuziUkLwVT8MejhazCk-5" target="zVuziUkLwVT8MejhazCk-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="60" y="70" as="sourcePoint" />
+            <mxPoint x="140" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVuziUkLwVT8MejhazCk-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="zVuziUkLwVT8MejhazCk-5">
+          <mxGeometry x="45" y="110" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zVuziUkLwVT8MejhazCk-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="zVuziUkLwVT8MejhazCk-5">
+          <mxGeometry x="45" y="270" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zVuziUkLwVT8MejhazCk-13" value="发送download消息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="150" y="210" as="sourcePoint" />
+            <mxPoint x="339.5" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVuziUkLwVT8MejhazCk-16" value="循环发送心跳消息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" source="zVuziUkLwVT8MejhazCk-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="260" as="sourcePoint" />
+            <mxPoint x="150" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVuziUkLwVT8MejhazCk-22" value="停止发送心跳包" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359.5" y="360" as="sourcePoint" />
+            <mxPoint x="150" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVuziUkLwVT8MejhazCk-23" value="发送二进制包" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349.5" y="400" as="sourcePoint" />
+            <mxPoint x="140" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
