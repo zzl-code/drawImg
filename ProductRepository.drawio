@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T07:25:12.007Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="hrvPnI9YYWY9BkW0o_FS" version="18.2.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-06-02T07:52:35.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="r7-JlbM2NSL9fRuDCybf" version="18.2.0" type="github" pages="10">
   <diagram id="akDMOG8QlkOs2LqveHOb" name="第 1 页">
     <mxGraphModel dx="1398" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,7 +254,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="odYWxrLT3jzmKnoDPwcV" name="第 2 页">
-    <mxGraphModel dx="1773" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2225" dy="1722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,7 +363,7 @@
         <mxCell id="qhYkfoVjgDUmvQAYInls-59" value="管理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.228;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QahmHyH51qg4NlwLbVIx-33" target="K_kFmx0mS9cXthyhGz04-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QahmHyH51qg4NlwLbVIx-33" value="repo-ctrol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="QahmHyH51qg4NlwLbVIx-33" value="repo-ctrl" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-40" y="390" width="240" height="65" as="geometry" />
         </mxCell>
         <mxCell id="qhYkfoVjgDUmvQAYInls-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.237;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QahmHyH51qg4NlwLbVIx-34" target="qhYkfoVjgDUmvQAYInls-45" edge="1">
@@ -374,7 +374,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QahmHyH51qg4NlwLbVIx-34" value="repo-ctrol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="QahmHyH51qg4NlwLbVIx-34" value="repo-ctrl" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="745" y="387.5" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pj6_xXkc8qYkNO49AZSW-1" value="互联网大区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1695,7 +1695,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oC19pK8y1uTLXtBHYloe" name="第 10 页">
-    <mxGraphModel dx="946" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1860,6 +1860,12 @@
           <mxGeometry x="-0.287" y="-1" relative="1" as="geometry">
             <mxPoint x="17" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QlT7TjoYXnzIICEGyun1-37" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="80" width="20" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="QlT7TjoYXnzIICEGyun1-38" value="repo-ctrol" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="80" width="100" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
