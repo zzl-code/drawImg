@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T02:38:41.309Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="yCo9L2J1x7bzIBtXrsub" version="20.0.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-20T03:51:48.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="9RG2imNRaXNz5F4Ts2BX" version="20.0.1" type="github" pages="13">
   <diagram id="akDMOG8QlkOs2LqveHOb" name="第 1 页">
-    <mxGraphModel dx="1166" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1177" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2034,7 +2034,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5cYzY8G6Huz82XozZUzX" name="第 13 页">
-    <mxGraphModel dx="1993" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2004" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2303,6 +2303,103 @@
           <mxGeometry x="-0.1266" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Njwmr_XLXBIyfLflNpEw" name="第 14 页">
+    <mxGraphModel dx="1177" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rbtvFBa2Krkufze-RWUz-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="890" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rbtvFBa2Krkufze-RWUz-18" target="rbtvFBa2Krkufze-RWUz-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="220" as="sourcePoint" />
+            <mxPoint x="620" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rbtvFBa2Krkufze-RWUz-20" target="rbtvFBa2Krkufze-RWUz-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-20" value="任务创建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-21" value="内网" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-22" value="外网" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rbtvFBa2Krkufze-RWUz-23" target="rbtvFBa2Krkufze-RWUz-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-23" value="上传网闸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rbtvFBa2Krkufze-RWUz-24" target="rbtvFBa2Krkufze-RWUz-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-24" value="下载任务文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbtvFBa2Krkufze-RWUz-25" target="rbtvFBa2Krkufze-RWUz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-25" value="运行k8s job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rbtvFBa2Krkufze-RWUz-26" target="rbtvFBa2Krkufze-RWUz-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="520" />
+              <mxPoint x="600" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-26" value="asset 同步到网闸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-27" value="asset 同步到制品库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-36" value="inner-job-create" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="108" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-37" value="+ created    &#xa;+ failed&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-36">
+          <mxGeometry y="26" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-40" value="inner-file-upload" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="210" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-41" value="+ uploaded&#xa;+ filed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-40">
+          <mxGeometry y="26" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-51" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="125" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-52" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="230" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-53" value="outer-job-download" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="285" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-54" value="+ outer-downloaded&#xa;+ filed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-53">
+          <mxGeometry y="26" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-55" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339.5" y="307.5" width="74" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-57" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="74" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-58" value="outer-job-download" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="387.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-59" value="+ outer-downloaded&#xa;+ filed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-58">
+          <mxGeometry y="26" width="140" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
