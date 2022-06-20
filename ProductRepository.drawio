@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T03:51:48.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="9RG2imNRaXNz5F4Ts2BX" version="20.0.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-06-20T09:45:50.147Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-2IWjL6oSABphi2IgYcy" version="20.0.1" type="github" pages="13">
   <diagram id="akDMOG8QlkOs2LqveHOb" name="第 1 页">
     <mxGraphModel dx="1177" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2313,7 +2313,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rbtvFBa2Krkufze-RWUz-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="70" width="890" height="600" as="geometry" />
+          <mxGeometry x="90" y="60" width="990" height="670" as="geometry" />
         </mxCell>
         <mxCell id="rbtvFBa2Krkufze-RWUz-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rbtvFBa2Krkufze-RWUz-18" target="rbtvFBa2Krkufze-RWUz-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2343,13 +2343,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rbtvFBa2Krkufze-RWUz-24" value="下载任务文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rbtvFBa2Krkufze-RWUz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbtvFBa2Krkufze-RWUz-25" target="rbtvFBa2Krkufze-RWUz-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rbtvFBa2Krkufze-RWUz-25" value="运行k8s job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rbtvFBa2Krkufze-RWUz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rbtvFBa2Krkufze-RWUz-26" target="rbtvFBa2Krkufze-RWUz-27">
           <mxGeometry relative="1" as="geometry">
@@ -2359,7 +2359,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rbtvFBa2Krkufze-RWUz-26" value="asset 同步到网闸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rbtvFBa2Krkufze-RWUz-26" value="同步asset到网闸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rbtvFBa2Krkufze-RWUz-27" value="asset 同步到制品库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2368,13 +2368,13 @@
         <mxCell id="rbtvFBa2Krkufze-RWUz-36" value="inner-job-create" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="108" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rbtvFBa2Krkufze-RWUz-37" value="+ created    &#xa;+ failed&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-36">
+        <mxCell id="rbtvFBa2Krkufze-RWUz-37" value="+ innerJobCreated    &#xa;+ failed&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-36">
           <mxGeometry y="26" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="rbtvFBa2Krkufze-RWUz-40" value="inner-file-upload" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="210" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rbtvFBa2Krkufze-RWUz-41" value="+ uploaded&#xa;+ filed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-40">
+        <mxCell id="rbtvFBa2Krkufze-RWUz-41" value="+ innerJobUploaded&#xa;+ filed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-40">
           <mxGeometry y="26" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="rbtvFBa2Krkufze-RWUz-51" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2384,22 +2384,154 @@
           <mxGeometry x="790" y="230" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rbtvFBa2Krkufze-RWUz-53" value="outer-job-download" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="285" width="140" height="70" as="geometry" />
+          <mxGeometry x="180" y="225" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rbtvFBa2Krkufze-RWUz-54" value="+ outer-downloaded&#xa;+ filed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-53">
+        <mxCell id="rbtvFBa2Krkufze-RWUz-54" value="+ outerJobDownloaded&#xa;+ filed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-53">
           <mxGeometry y="26" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="rbtvFBa2Krkufze-RWUz-55" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="339.5" y="307.5" width="74" height="25" as="geometry" />
+          <mxGeometry x="339.5" y="245" width="74" height="25" as="geometry" />
         </mxCell>
         <mxCell id="rbtvFBa2Krkufze-RWUz-57" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="410" width="74" height="25" as="geometry" />
+          <mxGeometry x="339.5" y="382.5" width="74" height="25" as="geometry" />
         </mxCell>
         <mxCell id="rbtvFBa2Krkufze-RWUz-58" value="outer-job-download" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="387.5" width="140" height="70" as="geometry" />
+          <mxGeometry x="180" y="345" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rbtvFBa2Krkufze-RWUz-59" value="+ outer-downloaded&#xa;+ filed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-58">
-          <mxGeometry y="26" width="140" height="44" as="geometry" />
+        <mxCell id="rbtvFBa2Krkufze-RWUz-59" value="+ k8sJobRunning&#xa;+k8sJobFinished&#xa;+ filed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-58">
+          <mxGeometry y="26" width="140" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-61" value="outer-job-download" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="620" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-62" value="+ outerAssetSynchronizing&#xa;+ outerFinished&#xa;+ filed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-61">
+          <mxGeometry y="26" width="160" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-64" value="inner-file-upload" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-65" value="+ innerAssetSynchronizing&#xa;+ innerFinished&#xa;+ filed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-64">
+          <mxGeometry y="26" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-66" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="590" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-72" value="job file" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="125" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-73" value="/product-centor" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-72">
+          <mxGeometry y="30" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-74" value="/product-centor/jobs/2022-06-20-maven-{id}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-72">
+          <mxGeometry y="60" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-75" value="     job.json      pom.xml       job.log  repo.json" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-72">
+          <mxGeometry y="90" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-76" value="job file" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="287.5" width="380" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-77" value="/product-centor" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-76">
+          <mxGeometry y="30" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-78" value="/product-centor/assets/2022-06-20-maven-{id}&#xa;&#xa;  spring-boot-1.0.0.jar  spring-boot-1.0.0.pom spring-boot-1.0.0.sha&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-76">
+          <mxGeometry y="60" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-81" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rbtvFBa2Krkufze-RWUz-82" target="rbtvFBa2Krkufze-RWUz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-82" value="定时器/勾选依赖" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-84" value="outer-job-created" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="620" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-85" value="+ outerJobCreated&#xa;+ filed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-84">
+          <mxGeometry y="26" width="140" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-86" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-96" value="sync-job" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="530" width="260" height="364" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-97" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-96">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-98" value="job_status     job状态，见图一状态机" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-96">
+          <mxGeometry y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-101" value="message       错误的一些信息" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-96">
+          <mxGeometry y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-100" value="job_dir           网闸上对应job目录名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-96">
+          <mxGeometry y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-102" value="tenant_id       创建人的租户id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-96">
+          <mxGeometry y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-103" value="project_id      创建人的项目id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-96">
+          <mxGeometry y="156" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-104" value="account_id    创建人的账号id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-96">
+          <mxGeometry y="182" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-106" value="stage              阶段" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-96">
+          <mxGeometry y="208" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-105" value="create_side    创建侧  内网外网" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-96">
+          <mxGeometry y="234" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-108" value="job_type         那种语言或者依赖的job" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-96">
+          <mxGeometry y="260" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-107" value="repo_list        单次job对应仓库列表，详情见job.json" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-96">
+          <mxGeometry y="286" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-109" value="created_time  创建时间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-96">
+          <mxGeometry y="312" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-99" value="updated_time  修改时间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-96">
+          <mxGeometry y="338" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-110" value="repositories" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="520" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-111" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-110">
+          <mxGeometry y="30" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-112" value="name               仓库名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-110">
+          <mxGeometry y="60" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-117" value="format             maven/npm/go/pipy/apt/yum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-110">
+          <mxGeometry y="90" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-118" value="type                hosted/proxy/group" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-110">
+          <mxGeometry y="120" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-119" value="tenant_id        创建人租户id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-110">
+          <mxGeometry y="150" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-120" value="project_id       创建人项目id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-110">
+          <mxGeometry y="180" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-121" value="account_id     创建人账号id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-110">
+          <mxGeometry y="210" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-123" value="created_time    创建时间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-110">
+          <mxGeometry y="240" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-124" value="updated_time    修改时间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-110">
+          <mxGeometry y="270" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-125" value="description     描述" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-110">
+          <mxGeometry y="300" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbtvFBa2Krkufze-RWUz-113" value="deletable        是否可删除" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="rbtvFBa2Krkufze-RWUz-110">
+          <mxGeometry y="330" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
