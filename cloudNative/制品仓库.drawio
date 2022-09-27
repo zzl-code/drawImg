@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T07:44:53.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="fV5mG_jmt6tdWHBWQswp" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T07:52:14.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="m71jWDYpOWKLiw06p5NI" version="20.3.6" type="github">
   <diagram id="5wyxpLxITQXQQzNtic2w" name="第 1 页">
     <mxGraphModel dx="1186" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SG2hRJkafvszCcKqPOsn-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="540" width="800" height="480" as="geometry" />
+        </mxCell>
         <mxCell id="SG2hRJkafvszCcKqPOsn-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="680" width="520" height="300" as="geometry" />
         </mxCell>
@@ -70,12 +73,12 @@
           <mxGeometry x="474" y="800" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SG2hRJkafvszCcKqPOsn-6" value="ingress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="585" width="520" height="55" as="geometry" />
+          <mxGeometry x="260" y="580" width="520" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="SG2hRJkafvszCcKqPOsn-8" value="pipeline" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="585" width="90" height="405" as="geometry" />
+        <mxCell id="SG2hRJkafvszCcKqPOsn-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="580" width="90" height="405" as="geometry" />
         </mxCell>
-        <mxCell id="SG2hRJkafvszCcKqPOsn-9" value="kubernetes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SG2hRJkafvszCcKqPOsn-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="580" width="92" height="400" as="geometry" />
         </mxCell>
         <mxCell id="SG2hRJkafvszCcKqPOsn-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -107,6 +110,39 @@
         </mxCell>
         <mxCell id="SG2hRJkafvszCcKqPOsn-21" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="795" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SG2hRJkafvszCcKqPOsn-22" value="k8s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="831" y="820" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SG2hRJkafvszCcKqPOsn-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="650" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SG2hRJkafvszCcKqPOsn-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="830" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SG2hRJkafvszCcKqPOsn-26" value="k8s pod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="840" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SG2hRJkafvszCcKqPOsn-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="720" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SG2hRJkafvszCcKqPOsn-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="735" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SG2hRJkafvszCcKqPOsn-30" value="jenkins pod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="755" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SG2hRJkafvszCcKqPOsn-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="831" y="660" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SG2hRJkafvszCcKqPOsn-32" value="主机部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="670" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SG2hRJkafvszCcKqPOsn-33" value="CI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SG2hRJkafvszCcKqPOsn-34" value="CD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="585" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
